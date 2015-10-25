@@ -1,0 +1,37 @@
+{
+  "name": "brazzers-carousel",
+  "title": "jQuery Brazzers Carousel",
+  "description": "Light Responsive Thumbnails Hover Carousel plugin for Blogs & Online Stores",
+  "keywords": [
+    "jquery-plugins",
+    "carousel",
+    "slides",
+    "slider",
+    "thumbnail",
+    "thumbnails",
+    "preview",
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "WebDesign Master",
+    "url": "http://webdesign-master.ru"
+  },
+  "maintainers": [
+    {
+      "name": "Aleksey Klimanov",
+      "url": "https://github.com/agragregra"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "homepage": "http://agragregra.github.io/Brazzers-Carousel/",
+  "docs": "http://agragregra.github.io/Brazzers-Carousel/",
+  "download": "https://github.com/agragregra/Brazzers-Carousel-Repo/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.1"
+  }
+}
