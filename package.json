@@ -4,12 +4,7 @@
   "description": "Light Responsive Thumbnails Hover Carousel plugin for Blogs & Online Stores",
   "keywords": [
     "jquery-plugins",
-    "carousel",
-    "slides",
-    "slider",
-    "thumbnail",
-    "thumbnails",
-    "preview",
+    "ecosystem:jquery"
   ],
   "version": "1.0.0",
   "author": {
@@ -29,8 +24,7 @@
     }
   ],
   "homepage": "http://agragregra.github.io/Brazzers-Carousel/",
-  "docs": "http://agragregra.github.io/Brazzers-Carousel/",
-  "download": "https://github.com/agragregra/Brazzers-Carousel-Repo/archive/master.zip",
+  "repository": "https://github.com/agragregra/Brazzers-Carousel-Repo/",
   "dependencies": {
     "jquery": ">=1.1"
   }
