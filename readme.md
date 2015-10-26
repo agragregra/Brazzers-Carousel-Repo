@@ -16,4 +16,7 @@
 5) Start the plug-in:
 <pre>$(".thumb-item").brazzersCarousel();
 </pre>
+<br>
+Or install NPM: <code>npm i brazzers-carousel</code>.
+<br>
 <p>Download Plugin: https://github.com/agragregra/Brazzers-Carousel-Repo/archive/master.zip</p>
